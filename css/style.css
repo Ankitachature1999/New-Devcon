@@ -297,6 +297,9 @@
     color: var(--bs-white);
     transition: 0.5s;
 }
+.service-item{
+    height: 400px;
+}
 
 .service .service-item img {
     transition: 0.5s;
